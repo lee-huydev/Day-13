@@ -60,3 +60,16 @@ html {
    font-size: 14px;
    padding: 9px;
 }
+button {
+   padding: 10px 20px;
+   margin: 0 auto;
+   display: block;
+   cursor: pointer;
+   border: none;
+   border-radius: 10px;
+   font-size: 20px;
+}
+button:hover {
+   background-color: #003366;
+   color: white;
+}
